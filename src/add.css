@@ -1,0 +1,25 @@
+.add-box
+{
+    margin:40px auto;
+    display:flex;
+    height:50vh;
+    width:70%;
+    justify-content:space-around;
+}
+.form
+{
+    display:flex;
+    height:inherit;
+    border:1px solid;
+    width:60%
+}
+form
+{
+    margin:5px 10px;
+    font-size: 1.4rem;
+}
+form input
+{
+    height: 40px;
+    width:100%;
+}
